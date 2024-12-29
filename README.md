@@ -1,0 +1,2 @@
+# wsjtxauto-
+auto wsjtx
